@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>晴歌</title><link>https://qg11a.github.io</link><description>随便写写</description><copyright>晴歌</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/170716516?v=4</url><title>avatar</title><link>https://qg11a.github.io</link></image><lastBuildDate>Sat, 02 Nov 2024 16:27:30 +0000</lastBuildDate><managingEditor>晴歌</managingEditor><ttl>60</ttl><webMaster>晴歌</webMaster><item><title>Markdown基础</title><link>https://qg11a.github.io/post/Markdown-ji-chu.html</link><description># &lt;center&gt;&lt;font face='黑体' size=6&gt;Markdown的基本语法&lt;/font&gt;&lt;/center&gt;&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>晴歌</title><link>https://qg11a.github.io</link><description>随便写写</description><copyright>晴歌</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/170716516?v=4</url><title>avatar</title><link>https://qg11a.github.io</link></image><lastBuildDate>Sat, 02 Nov 2024 16:49:54 +0000</lastBuildDate><managingEditor>晴歌</managingEditor><ttl>60</ttl><webMaster>晴歌</webMaster><item><title>正则表达式</title><link>https://qg11a.github.io/post/zheng-ze-biao-da-shi.html</link><description># &lt;center&gt;&lt;font face='宋体' size=6&gt;正则表达式&lt;/font&gt;&lt;/center&gt;&#13;
+&#13;
+### 一、关于正则表达式 &#13;
+1. **介绍**&#13;
+Regular Expression，正则表达式，一种使用表达式的方式来对字符串进行匹配的语法规则。</description><guid isPermaLink="true">https://qg11a.github.io/post/zheng-ze-biao-da-shi.html</guid><pubDate>Sat, 02 Nov 2024 16:49:29 +0000</pubDate></item><item><title>Markdown基础</title><link>https://qg11a.github.io/post/Markdown-ji-chu.html</link><description># &lt;center&gt;&lt;font face='黑体' size=6&gt;Markdown的基本语法&lt;/font&gt;&lt;/center&gt;&#13;
 &#13;
 ### 一、基本语法&#13;
 1. **标题**  &#13;
